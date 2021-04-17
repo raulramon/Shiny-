@@ -1,0 +1,19 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+https://query.data.world/s/z7alvrb4m6y6gvmxdnf3rnwdbpbxxb
+```{r}
+df <- read.csv("https://query.data.world/s/z7alvrb4m6y6gvmxdnf3rnwdbpbxxb", header=TRUE, stringsAsFactors=FALSE);
+```
+
+```{r}
+head(df)
+```
+
+
+```{r}
+summary(df)
+```
+

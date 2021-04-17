@@ -1,0 +1,12 @@
+name: uciRiders
+title: uciRiders
+username:
+account: raulramon
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3934061
+bundleId: 4448883
+url: https://raulramon.shinyapps.io/uciRiders/
+when: 1617933275.31792
+asMultiple: FALSE
+asStatic: FALSE
